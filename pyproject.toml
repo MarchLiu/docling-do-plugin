@@ -9,9 +9,10 @@ dependencies = [
     "docling>=2.58.0",
     "easydict>=1.13",
     "einops>=0.8.1",
+    "matplotlib>=3.10.7",
     "tokenizers>=0.22.1",
     "torch>=2.9.0",
-    "transformers>=4.57.1"
+    "transformers>=4.57.1",
 ]
 
 [project.entry-points."docling"]
